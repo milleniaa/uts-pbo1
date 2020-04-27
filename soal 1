@@ -20,7 +20,7 @@ public static void main(String[] Strings) {
             double r1 = -b / (2.0 * a);
             System.out.println("The root is " + r1);
         } else {
-            System.out.println("The equation has no real roots.");
+            System.out.println("The equation has no real roots");
         }
     
     }
